@@ -7,11 +7,10 @@ Right now, I’m diving deeper into **Machine Learning**, and **Data Analysis**�
 ## 🔧 Technologies & Tools
 - **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn) – my go-to toolkit for data analysis and machine learning
 - **SQL** (MySQL, PostgreSQL) – for extracting and manipulating data
-- **Power BI & Excel** – visualizing insights and creating impactful reports
+- **Tableau, Looker & Excel** – visualizing insights and creating impactful reports
 - **AWS** (EC2, S3) – cloud services for scalable solutions
 - **Git & GitHub** – version control to keep my projects organized
 - **Jupyter Notebooks & VS Code** – my development environment of choice
-- **Cybersecurity Tools** – analyzing threats to strengthen data security
 
 ## 🚀 Currently Working On
 - **Customer Churn Prediction** – using advanced models to predict customer behavior and reduce churn
