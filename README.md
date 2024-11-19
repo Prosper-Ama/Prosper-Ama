@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub! I'm a passionate **Data Analyst** with a knack for uncovering insights that help businesses not just survive, but thrive. I specialize in using data to help organizations **boost profits, retain customers, and stay ahead of the competition**. Whether it's drawing actionable insights from data or bridging the gap between **data** and **marketing**, I'm all about making informed decisions that drive growth.
 
-Right now, I’m diving deeper into **Machine Learning**, **Cybersecurity**, and of course, **Data Analysis**—applying my skills to real-world challenges and looking for ways to make a tangible impact.
+Right now, I’m diving deeper into **Machine Learning**, and **Data Analysis**—applying my skills to real-world challenges and looking for ways to make a tangible impact.
 
 ## 🔧 Technologies & Tools
 - **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn) – my go-to toolkit for data analysis and machine learning
