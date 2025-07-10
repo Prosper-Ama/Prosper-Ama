@@ -1,25 +1,20 @@
-# Hey there, I'm Prosper Ama 👋
+## 👋 About Me
+Hi, I'm Prosper Amamgbo, a Data Engineer with hands-on experience designing and deploying end-to-end cloud-based ETL pipelines using AWS (Lambda, S3, Redshift), Terraform, and Python.
 
-Welcome to my corner of GitHub! I'm a passionate **Data Analyst** with a knack for uncovering insights that help businesses not just survive, but thrive. I specialize in using data to help organizations **boost profits, retain customers, and stay ahead of the competition**. Whether it's drawing actionable insights from data or bridging the gap between **data** and **marketing**, I'm all about making informed decisions that drive growth.
+I thrive at the intersection of data engineering, cloud infrastructure, and automation, with a strong foundation in:
 
-Right now, I’m diving deeper into **Machine Learning**, and **Data Analysis**—applying my skills to real-world challenges and looking for ways to make a tangible impact.
+- ETL design and orchestration (Parquet, pandas, SQL)
 
-## 🔧 Technologies & Tools
-- **Python** (pandas, numpy, scikit-learn, matplotlib, seaborn) – my go-to toolkit for data analysis and machine learning
-- **SQL** (MySQL, PostgreSQL) – for extracting and manipulating data
-- **Tableau, Looker & Excel** – visualizing insights and creating impactful reports
-- **AWS** (EC2, S3) – cloud services for scalable solutions
-- **Git & GitHub** – version control to keep my projects organized
-- **Jupyter Notebooks & VS Code** – my development environment of choice
+- AWS serverless architecture (Lambda with Docker, S3, Redshift Serverless, Step Functions)
 
-## 🚀 Currently Working On
-- **Customer Churn Prediction** – using advanced models to predict customer behavior and reduce churn
-- **Cybersecurity Threat Analysis** – leveraging data to better protect organizations from potential security risks
-- **Bridging Data and Marketing Insights** – helping businesses refine their marketing strategies through data-driven decisions
-- **Building a Portfolio** – showcasing a collection of my projects in data analysis, machine learning, and marketing analytics
+- Infrastructure as Code (Terraform modules for IAM, ECR, VPC, etc.)
 
-## 📫 Let's Connect!
-- LinkedIn: [(https://www.linkedin.com/in/Prosper-Amamgbo)
-- Email: amaprosperjr@gmail.com
+- Data validation and transformation (cleaning, merging, schema alignment)
 
-Feel free to explore my repositories, reach out with questions, or connect with me for potential collaborations. I’m always excited about new opportunities to learn, grow, and make an impact!
+- CI/CD practices and Git for version control
+
+🔧 I'm currently focused on building scalable, production-grade data workflows and turning raw data into clean, queryable data marts.
+
+Open to internships and full-time roles in **data engineering**, **analytics**, or **cloud infrastructure.**
+
+Let’s build something impactful together 🚀
