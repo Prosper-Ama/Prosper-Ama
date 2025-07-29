@@ -13,7 +13,7 @@ I thrive at the intersection of data engineering, cloud infrastructure, and auto
 
 - CI/CD practices and Git for version control
 
-🔧 I'm currently focused on building scalable, production-grade data workflows and turning raw data into clean, queryable data marts.
+I'm currently focused on building scalable, production-grade data workflows and turning raw data into clean, queryable data marts.
 
 Open to internships and full-time roles in **data engineering**, **analytics**, or **cloud infrastructure.**
 
